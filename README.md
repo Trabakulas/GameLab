@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome Guys
 
-You can use the [editor on GitHub](https://github.com/Giuseppina20/GameLab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Kalispera
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Game Lab
 
-### Markdown
+### Game Developing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+YOLO
 
 ```markdown
-Syntax highlighted code block
+Life is strange
 
 # Header 1
 ## Header 2
