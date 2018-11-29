@@ -7,7 +7,10 @@ Game Lab
 ### Game Developing
 
 YOLO,SWAG AND DAB
-
+#Rules
+##Obey the law
+##Praise the sun
+##Praise the lord
 ```markdown
 Life is strange
 
